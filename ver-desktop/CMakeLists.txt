@@ -56,6 +56,5 @@ add_executable(
 target_link_libraries(
     hw
     PRIVATE
-    ts
     ts_kotlin
 )
