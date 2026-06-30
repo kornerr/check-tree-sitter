@@ -8,3 +8,5 @@ set(
     SOURCES
     src/main.cpp
 )
+
+add_executable(hw ${SOURCES})
