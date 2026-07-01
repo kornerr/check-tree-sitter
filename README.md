@@ -5,7 +5,7 @@ See if Kotlin Dialect can be transpiled into C++ and may be other languages
 `./util/build-desktop`
 
 <details>
-<summary>Console output</summary>
+<summary>Sample console output when running on macOS Tahoe</summary>
 
 ```
 > > > > Step №1. Build for Desktop
