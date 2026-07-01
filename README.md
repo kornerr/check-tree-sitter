@@ -6,4 +6,4 @@ See if Kotlin Dialect can be transpiled into C++ and may be other languages
 
 # Run
 
-`./util/launch sample.kt`
+`./util/launch-desktop sample.kt`
